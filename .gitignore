@@ -1,0 +1,9 @@
+.aws
+.DS_Store
+_Docs
+_Source
+_Stock
+_Versions
+node_modules
+server.json
+npm-debug.log
