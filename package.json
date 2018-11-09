@@ -1,0 +1,25 @@
+{
+  "name": "inject-serviceworker",
+  "version": "1.0.0",
+  "description": "Injects Service Worker script.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AriesDatuin/inject-serviceworker.git"
+  },
+  "keywords": [
+    "analytics",
+    "inject-serviceworker",
+    "tracking",
+    "ux"
+  ],
+  "author": "Aries Datuin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AriesDatuin/inject-serviceworker/issues"
+  },
+  "homepage": "https://github.com/AriesDatuin/inject-serviceworker#readme"
+}
