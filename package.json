@@ -1,6 +1,6 @@
 {
   "name": "inject-serviceworker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Injects Service Worker.",
   "main": "index.js",
   "scripts": {
@@ -11,10 +11,10 @@
     "url": "git+https://github.com/AriesDatuin/inject-serviceworker.git"
   },
   "keywords": [
-    "analytics",
-    "inject-serviceworker",
-    "tracking",
-    "ux"
+    "cache",
+    "pwa",
+    "serviceworker",
+    "workbox"
   ],
   "author": "Aries Datuin",
   "license": "MIT",
