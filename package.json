@@ -1,7 +1,7 @@
 {
   "name": "inject-serviceworker",
-  "version": "1.0.0",
-  "description": "Injects Service Worker script.",
+  "version": "1.0.1",
+  "description": "Injects Service Worker.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
