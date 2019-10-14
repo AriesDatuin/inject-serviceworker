@@ -25,8 +25,6 @@ module.exports = function(opts) {
 
 						'navigator.serviceWorker.register("sw.js").then(function(registration) {\n'+
 
-							'console.log("siteVersion");\n'+
-
 							'//console.log("ServiceWorker registration successful with scope: ", registration.scope);\n'+
 
 						"});\n"+
